@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const LINKS = [
   { to: '/', text: 'Home page' },
   { to: '/starr', text: 'Start page' },
-  { to: '/404' , text:'404! page'}
+  { to: '/404', text: '404! page' },
 ];
 
 const Navs = () => {
