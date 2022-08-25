@@ -5,7 +5,7 @@ const Title = ({ title, subtitle }) => {
     <div>
       <h1>{title}</h1>
       <p>
-        <h4>{subtitle}</h4>
+        {subtitle}
       </p>
     </div>
   );
