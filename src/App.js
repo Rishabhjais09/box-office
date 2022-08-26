@@ -12,7 +12,7 @@ function App() {
         <Home />
       </Route>
 
-      <Route path="/starr">
+      <Route path="/starred">
         <Starred />
       </Route>
 
